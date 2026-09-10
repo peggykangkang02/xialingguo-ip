@@ -12,7 +12,7 @@
 
 **适合**：小白教程、方法论、经验分享、Web 出海入门。
 
-**样图**：`assets/style-samples/warm-handdrawn.png`
+**样图**：`assets/style-samples/thumbs/warm-handdrawn.png`
 
 ## 🟢💻 产品主视觉风
 
@@ -24,7 +24,7 @@
 
 **适合**：工具介绍、产品拆解、网站案例、流程展示。
 
-**样图**：`assets/style-samples/product-main.png`
+**样图**：`assets/style-samples/thumbs/product-main.png`
 
 ## 🔵⚡ 深色科技爆发风
 
@@ -36,7 +36,7 @@
 
 **适合**：AI 趋势、出海增长、重大教程、强结果主题。
 
-**样图**：`assets/style-samples/dark-tech.png`
+**样图**：`assets/style-samples/thumbs/dark-tech.png`
 
 ## 🟡🟦 撕纸拼贴风
 
@@ -48,7 +48,7 @@
 
 **适合**：出海故事、案例复盘、个人经验、创意型教程。
 
-**样图**：`assets/style-samples/collage.png`
+**样图**：`assets/style-samples/thumbs/collage.png`
 
 ## ⚪🟠 编辑杂志风
 
@@ -60,7 +60,7 @@
 
 **适合**：万字长文、行业分析、知识整理、深度报告。
 
-**样图**：`assets/style-samples/editorial.png`
+**样图**：`assets/style-samples/thumbs/editorial.png`
 
 ## 🟡⚫ 黑金步骤爆款风
 
@@ -72,7 +72,7 @@
 
 **适合**：从 0 到 1、赚钱结果、步骤型教程、强承诺标题。
 
-**样图**：`assets/style-samples/black-gold.png`
+**样图**：`assets/style-samples/thumbs/black-gold.png`
 
 ## 🟢⚫ 高饱和实测冲击风
 
@@ -84,7 +84,7 @@
 
 **适合**：实测、复盘、挑战、工具验证、结果证明。
 
-**样图**：`assets/style-samples/live-test.png`
+**样图**：`assets/style-samples/thumbs/live-test.png`
 
 ## 🟡🟥 手写结果承诺风
 
@@ -96,7 +96,7 @@
 
 **适合**：入门教程、收益预期、经验总结、低门槛行动指南。
 
-**样图**：`assets/style-samples/handwritten-result.png`
+**样图**：`assets/style-samples/thumbs/handwritten-result.png`
 
 ## 🟩🌐 产品后台沉浸风
 
@@ -108,7 +108,7 @@
 
 **适合**：产品工作流、网站搭建、数据增长、运营系统、出海业务闭环。
 
-**样图**：`assets/style-samples/dashboard.png`
+**样图**：`assets/style-samples/thumbs/dashboard.png`
 
 ## 使用风格库的规则
 

@@ -46,39 +46,39 @@
 
 ### 🟠⭐ 暖色手绘教程风
 
-![暖色手绘教程风 21:9](assets/style-samples/warm-handdrawn.png)
+![暖色手绘教程风 21:9](assets/style-samples/thumbs/warm-handdrawn.png)
 
 ### 🟢💻 产品主视觉风
 
-![产品主视觉风 21:9](assets/style-samples/product-main.png)
+![产品主视觉风 21:9](assets/style-samples/thumbs/product-main.png)
 
 ### 🔵⚡ 深色科技爆发风
 
-![深色科技爆发风 21:9](assets/style-samples/dark-tech.png)
+![深色科技爆发风 21:9](assets/style-samples/thumbs/dark-tech.png)
 
 ### 🟡🟦 撕纸拼贴风
 
-![撕纸拼贴风 21:9](assets/style-samples/collage.png)
+![撕纸拼贴风 21:9](assets/style-samples/thumbs/collage.png)
 
 ### ⚪🟠 编辑杂志风
 
-![编辑杂志风 21:9](assets/style-samples/editorial.png)
+![编辑杂志风 21:9](assets/style-samples/thumbs/editorial.png)
 
 ### 🟡⚫ 黑金步骤爆款风
 
-![黑金步骤爆款风 21:9](assets/style-samples/black-gold.png)
+![黑金步骤爆款风 21:9](assets/style-samples/thumbs/black-gold.png)
 
 ### 🟢⚫ 高饱和实测冲击风
 
-![高饱和实测冲击风 21:9](assets/style-samples/live-test.png)
+![高饱和实测冲击风 21:9](assets/style-samples/thumbs/live-test.png)
 
 ### 🟡🟥 手写结果承诺风
 
-![手写结果承诺风 21:9](assets/style-samples/handwritten-result.png)
+![手写结果承诺风 21:9](assets/style-samples/thumbs/handwritten-result.png)
 
 ### 🟩🌐 产品后台沉浸风
 
-![产品后台沉浸风 21:9](assets/style-samples/dashboard.png)
+![产品后台沉浸风 21:9](assets/style-samples/thumbs/dashboard.png)
 
 ## 也可以一次性提供信息
 
