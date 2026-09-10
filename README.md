@@ -46,39 +46,39 @@
 
 ### 🟠⭐ 暖色手绘教程风
 
-![暖色手绘教程风 21:9](/Users/kangkang/.codex/generated_images/01a06a9f-b5b8-72e2-8761-ae900927475e/exec-2bdc8ff9-f2ea-41ea-ad7e-2f37217c65d6.png)
+![暖色手绘教程风 21:9](assets/style-samples/warm-handdrawn.png)
 
 ### 🟢💻 产品主视觉风
 
-![产品主视觉风 21:9](/Users/kangkang/.codex/generated_images/01a06a9f-b5b8-72e2-8761-ae900927475e/exec-13d0bd02-9687-4c70-89b3-4119eb7fd308.png)
+![产品主视觉风 21:9](assets/style-samples/product-main.png)
 
 ### 🔵⚡ 深色科技爆发风
 
-![深色科技爆发风 21:9](/Users/kangkang/.codex/generated_images/01a06a9f-b5b8-72e2-8761-ae900927475e/exec-5d91032c-a9ec-4336-b5ab-50a76e85d03f.png)
+![深色科技爆发风 21:9](assets/style-samples/dark-tech.png)
 
 ### 🟡🟦 撕纸拼贴风
 
-![撕纸拼贴风 21:9](/Users/kangkang/.codex/generated_images/01a06a9f-b5b8-72e2-8761-ae900927475e/exec-6b1aa69f-abd2-4f17-8179-4b70db2e42ee.png)
+![撕纸拼贴风 21:9](assets/style-samples/collage.png)
 
 ### ⚪🟠 编辑杂志风
 
-![编辑杂志风 21:9](/Users/kangkang/.codex/generated_images/01a06a9f-b5b8-72e2-8761-ae900927475e/exec-bea199b1-b578-4082-a9b4-fa70cdf8e239.png)
+![编辑杂志风 21:9](assets/style-samples/editorial.png)
 
 ### 🟡⚫ 黑金步骤爆款风
 
-![黑金步骤爆款风 21:9](/Users/kangkang/.codex/generated_images/01a06a9f-b5b8-72e2-8761-ae900927475e/exec-07547457-88ef-40a8-9abc-33fc23660116.png)
+![黑金步骤爆款风 21:9](assets/style-samples/black-gold.png)
 
 ### 🟢⚫ 高饱和实测冲击风
 
-![高饱和实测冲击风 21:9](/Users/kangkang/.codex/generated_images/01a06a9f-b5b8-72e2-8761-ae900927475e/exec-c3f82e9d-0e78-402f-9ebb-bad6d55b41f8.png)
+![高饱和实测冲击风 21:9](assets/style-samples/live-test.png)
 
 ### 🟡🟥 手写结果承诺风
 
-![手写结果承诺风 21:9](/Users/kangkang/.codex/generated_images/01a06a9f-b5b8-72e2-8761-ae900927475e/exec-f1ad476c-1039-4991-9418-d74d01a88daf.png)
+![手写结果承诺风 21:9](assets/style-samples/handwritten-result.png)
 
 ### 🟩🌐 产品后台沉浸风
 
-![产品后台沉浸风 21:9](/Users/kangkang/.codex/generated_images/01a06a9f-b5b8-72e2-8761-ae900927475e/exec-8762aec3-bced-42b6-98cb-a3b07b37f769.png)
+![产品后台沉浸风 21:9](assets/style-samples/dashboard.png)
 
 ## 也可以一次性提供信息
 
