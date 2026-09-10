@@ -40,13 +40,9 @@ metadata:
 
 ## 真人 IP素材
 
-当前固定真人 IP 的三张参考图：
+这是公共 Skill，不预设、也不写死任何人的真人 IP。每位用户都需要提供自己的真人 IP参考图，可以是一张或多张不同姿势的照片，并自行命名为“打招呼版”“AI 讲解版”“举食指版”等。
 
-- 打招呼版：`/Users/kangkang/.codex/generated_images/01a06a9f-b5b8-72e2-8761-ae900927475e/exec-67159abf-06a6-43ea-b55e-8cfbd62bae0f.png`
-- AI 讲解版：`/Users/kangkang/.codex/generated_images/01a06a9f-b5b8-72e2-8761-ae900927475e/exec-1f693045-5684-470e-82a2-c4d5ed4aa2dc.png`
-- 举食指版：`/Users/kangkang/.codex/generated_images/01a06a9f-b5b8-72e2-8761-ae900927475e/exec-f02128b6-2f48-44a6-9cbf-01e51a52c795.png`
-
-如果用户没有重新指定姿势，优先根据视觉重点选择最合适的一张；如果用户要求保持原样，必须使用对应参考图并明确“保持脸、表情、动作不变”。
+如果用户没有指定姿势，优先根据视觉重点推荐最合适的一张；如果用户要求保持原样，必须使用用户提供的对应参考图，并明确“保持脸、表情、动作不变”。
 
 ## 风格库
 
