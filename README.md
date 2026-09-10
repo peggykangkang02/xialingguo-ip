@@ -44,41 +44,28 @@
 
 下面的样图全部是已经生成过的成品，仅用于选择风格，不要求复刻样图中的标题、人物位置或具体内容。
 
-### 🟠⭐ 暖色手绘教程风
-
-![暖色手绘教程风 21:9](assets/style-samples/thumbs/warm-handdrawn.png)
-
-### 🟢💻 产品主视觉风
-
-![产品主视觉风 21:9](assets/style-samples/thumbs/product-main.png)
-
-### 🔵⚡ 深色科技爆发风
-
-![深色科技爆发风 21:9](assets/style-samples/thumbs/dark-tech.png)
-
-### 🟡🟦 撕纸拼贴风
-
-![撕纸拼贴风 21:9](assets/style-samples/thumbs/collage.png)
-
-### ⚪🟠 编辑杂志风
-
-![编辑杂志风 21:9](assets/style-samples/thumbs/editorial.png)
-
-### 🟡⚫ 黑金步骤爆款风
-
-![黑金步骤爆款风 21:9](assets/style-samples/thumbs/black-gold.png)
-
-### 🟢⚫ 高饱和实测冲击风
-
-![高饱和实测冲击风 21:9](assets/style-samples/thumbs/live-test.png)
-
-### 🟡🟥 手写结果承诺风
-
-![手写结果承诺风 21:9](assets/style-samples/thumbs/handwritten-result.png)
-
-### 🟩🌐 产品后台沉浸风
-
-![产品后台沉浸风 21:9](assets/style-samples/thumbs/dashboard.png)
+<table>
+  <tr>
+    <td width="50%"><strong>🟠⭐ 暖色手绘教程风</strong><br><img src="assets/style-samples/thumbs/warm-handdrawn.png" alt="暖色手绘教程风 21:9" width="100%"></td>
+    <td width="50%"><strong>🟢💻 产品主视觉风</strong><br><img src="assets/style-samples/thumbs/product-main.png" alt="产品主视觉风 21:9" width="100%"></td>
+  </tr>
+  <tr>
+    <td><strong>🔵⚡ 深色科技爆发风</strong><br><img src="assets/style-samples/thumbs/dark-tech.png" alt="深色科技爆发风 21:9" width="100%"></td>
+    <td><strong>🟡🟦 撕纸拼贴风</strong><br><img src="assets/style-samples/thumbs/collage.png" alt="撕纸拼贴风 21:9" width="100%"></td>
+  </tr>
+  <tr>
+    <td><strong>⚪🟠 编辑杂志风</strong><br><img src="assets/style-samples/thumbs/editorial.png" alt="编辑杂志风 21:9" width="100%"></td>
+    <td><strong>🟡⚫ 黑金步骤爆款风</strong><br><img src="assets/style-samples/thumbs/black-gold.png" alt="黑金步骤爆款风 21:9" width="100%"></td>
+  </tr>
+  <tr>
+    <td><strong>🟢⚫ 高饱和实测冲击风</strong><br><img src="assets/style-samples/thumbs/live-test.png" alt="高饱和实测冲击风 21:9" width="100%"></td>
+    <td><strong>🟡🟥 手写结果承诺风</strong><br><img src="assets/style-samples/thumbs/handwritten-result.png" alt="手写结果承诺风 21:9" width="100%"></td>
+  </tr>
+  <tr>
+    <td><strong>🟩🌐 产品后台沉浸风</strong><br><img src="assets/style-samples/thumbs/dashboard.png" alt="产品后台沉浸风 21:9" width="100%"></td>
+    <td></td>
+  </tr>
+</table>
 
 ## 也可以一次性提供信息
 
